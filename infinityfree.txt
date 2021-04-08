@@ -1,0 +1,24 @@
+- Account Details -
+Username  :	epiz_28338064
+Password  :  EEFrXDh1hvhxEZf
+Status    :	Active
+Label     :	Website for maba-site.epizy.com
+Main Domain :	bikzdtts.epizy.com
+IP Address	 : -
+Hosting Volume  : -
+Created on  :	2021-04-08
+
+- MySQL Details -
+MySQL Username	:  epiz_28338064
+MySQL Password  :  EEFrXDh1hvhxEZf
+MySQL Hostname  :	sql206.epizy.com
+MySQL Port (optional)  :	3306
+Database Name	 :  epiz_28338064_XXX
+                  (create this in the control panel)
+          
+- FTP Details -
+// Please login to the control panel to enable FTP and file manager access.
+FTP Username	:  epiz_28338064
+FTP Password  :  EEFrXDh1hvhxEZf
+FTP Hostname  :	ftpupload.net
+FTP Port (optional)  :	21
